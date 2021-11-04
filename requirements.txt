@@ -2,3 +2,6 @@ pyarrow
 pandas
 numpy
 matplotlib
+seaborn
+pandas-profiling
+pandas_schema
