@@ -6,3 +6,4 @@ seaborn
 pandas-profiling
 pandas_schema
 python-Levenshtein
+scikit-learn
