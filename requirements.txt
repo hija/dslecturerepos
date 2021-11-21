@@ -7,3 +7,5 @@ pandas-profiling
 pandas_schema
 python-Levenshtein
 scikit-learn
+scikit-image
+imbalanced-learn
